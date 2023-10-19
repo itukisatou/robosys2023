@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2022 Ituki Satou
+# SPDX-FileCopyrightText: 2023 Ituki Satou
+# SPDX-License-Identifier: BSD-3-Clause
 
 import sys
 
