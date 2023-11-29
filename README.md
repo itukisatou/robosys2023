@@ -1,5 +1,5 @@
 # robosys2023 plusコマンド
-*このコマンドは、標準入力から読み取った数字を足し合わせることができます。
+* このコマンドは、標準入力から読み取った数字を足し合わせることができます。
 
 [![test](https://github.com/itukisatou/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/itukisatou/robosys2023/actions/workflows/test.yml)
 
