@@ -4,6 +4,7 @@
 [![test](https://github.com/itukisatou/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/itukisatou/robosys2023/actions/workflows/test.yml)
 
 ## 実行例
+* 以下のように標準入力を渡すと数字を足し合わせることができます。
 ``` bash
 $seq 10 | ./plus
 55
@@ -14,7 +15,7 @@ $seq 10 | ./plus
 ```
 $git clone git@github.com:itukisatou/robosys2023.git
 ```
-* mainブランチ内のplusに実行権限を付与してください。
+* plusに実行権限を付与してください。
 ```
 $chmod +x plus
 ```
@@ -25,7 +26,7 @@ $chmod +x plus
 	* テスト済み: 3.7~3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 20.04
 
 ## ライセンス関連
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます.
